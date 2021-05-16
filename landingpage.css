@@ -1,0 +1,163 @@
+.container {
+    position: absolute;
+    height: 100%;
+}
+
+.text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    color: #ffd1d8;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.photo {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.title {
+    font-family: 'Aleo', serif;
+    font-size: 100px;
+    position: absolute;
+    text-align: center;
+    top: 800px;
+    left: 900px;
+    color: red;
+}
+
+.body {
+    width: 800px;
+    height: 600px;
+    /*overflow: hidden;*/
+    position: absolute;
+    left: 800px;
+    top: 500px;
+}
+.crocus_1 {
+    display: block;
+    position: absolute;
+    left: 800px;
+    top: 600px;
+    z-index: -1;
+}
+
+.one {
+    position: absolute;
+    left: 900px;
+    top: 500px;
+}
+
+.camellia {
+    display: block;
+    position: absolute;
+    left: 600px;
+    top: 400px;
+    z-index: -1;
+}
+
+.two {
+    position: absolute;
+    left: 1500px;
+    top: 700px;
+}
+
+.cyclamen {
+    display: block;
+    position: absolute;
+    left: -500px;
+    top: 500px;
+    z-index: -1;
+}
+
+.nine {
+    position: absolute;
+    left: 300px;
+    top: 800px;
+}
+
+.leucojum {
+    display: block;
+    position: absolute;
+    left: -200px;
+    top: 1500px;
+    z-index: -1;
+}
+
+.three {
+    position: absolute;
+    left: 600px;
+    top: 1500px;
+}
+
+.pieris_japonica {
+    display: block;
+    position: absolute;
+    left: 10px;
+    top: 1075px;
+    z-index: -1;
+}
+
+.four {
+    position: absolute;
+    left: 750px;
+    top: 1075px;
+}
+
+.scilla {
+    display: block;
+    position: absolute;
+    left: 330px;
+    top: -500px;
+    z-index: -1;
+}
+
+.five {
+    position: absolute;
+    left: 1200px;
+    top: 20px;
+}
+
+.witch_hazel {
+    display: block;
+    position: absolute;
+    left: 800px;
+    top: 50px;
+    z-index: -1;
+}
+
+.six {
+    position: absolute;
+    left: 1600px;
+    top: 400px;
+}
+
+.snowdrops {
+    display: block;
+    position: absolute;
+    left: -750px;
+    top: -350px;
+    z-index: -1;
+}
+
+.seven {
+    position: absolute;
+    left: 40px;
+    top: 150px;
+}
+
+.helleborus_niger {
+    display: block;
+    position: absolute;
+    left: 1200px;
+    top: -450px;
+    z-index: -1;
+}
+
+.eight {
+    position: absolute;
+    left: 1950px;
+    top: 50px;
+}
